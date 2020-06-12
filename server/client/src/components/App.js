@@ -7,6 +7,7 @@ import AltActions from './AltActions/AltActions';
 import SocialMedia from './SocialMedia/SocialMedia';
 import Allyship from './Allyship/Allyship';
 
+
 import './App.css'
 
 class App extends Component {

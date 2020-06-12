@@ -1,4 +1,11 @@
 .container {
     height: 600px;
-    background-image: url(../../assets/peace.jpg)
+    background-image: url(../../assets/peace.jpg);
+
+    .text {
+        padding: 650px 80px;
+        display: flex;
+        flex-direction: column;
+
+    }
 }

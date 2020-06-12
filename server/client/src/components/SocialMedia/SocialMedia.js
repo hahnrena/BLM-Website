@@ -38,7 +38,7 @@ class SocialMedia extends Component {
                     <a href="https://twitter.com/thebryreed/status/1266071139115241473">
                     A reading list
                     </a>
-                     for people being radicalized by the protests taking place. 
+                    for people being radicalized by the protests taking place. 
                     Political education accompanies  the work being done in the street!
                 </h5>
             </div>
